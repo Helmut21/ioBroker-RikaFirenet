@@ -1,9 +1,9 @@
 {
    "common":{
       "name":"RikaFirenet",
-      "version":"1.1.0",
+      "version":"0.0.1",
       "news":{
-         "1.1.0":{
+         "0.0.1":{
             "en":"ioBroker adapter for Rika Firenet",
             "de":"ioBroker Adapter für Rika Firenet"
          }
@@ -15,10 +15,10 @@
       },
       "desc":{
          "en":"Connects Rika Firenet",
-         "de":"Verbindet Connects Rika Firenet"
+         "de":"Verbindet Rika Firenet"
       },
       "authors":[
-         "Author <mail@dmxface.at>"
+         "Author <mail@HST.at>"
       ],
       "keywords":[
          "ioBroker",
