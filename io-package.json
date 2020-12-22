@@ -14,8 +14,8 @@
          "de":"Rika Firenet ioBroker Adapter"
       },
       "desc":{
-         "en":"Connects DMXfaceXP by ACTIVE SEND protocoll",
-         "de":"Verbindet das DMXfaceXP über das ACTICE SEND Protokoll"
+         "en":"Connects Rika Firenet",
+         "de":"Verbindet Connects Rika Firenet"
       },
       "authors":[
          "Author <mail@dmxface.at>"
@@ -29,7 +29,7 @@
          "home automation"
       ],
       "license":"MIT",
-      "platform":"Javascript/Node.js",
+      "platform":"Javascript",
       "main":"main.js",
       "icon":"dmxface.png",
       "enabled":true,
@@ -58,7 +58,7 @@
       ]
    },
    "native":{
-      "ipaddress":"0.0.0.0",
+      "ipaddress":"192.168.178.155",
       "port":"6000",
       "requesttiming":"1000",
       "lastdmxchannel":"0"
