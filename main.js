@@ -6,7 +6,7 @@
 //Implements min max tracking of addition reads
 
 //REV 1.0.2 First release
-const adaptername = "dmxface"
+const adaptername = "RikaFirenet"
 
 const utils = require('@iobroker/adapter-core');
 var adapter  = utils.Adapter (adaptername);
