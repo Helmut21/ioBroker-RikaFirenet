@@ -1,17 +1,17 @@
 {
    "common":{
-      "name":"dmxface",
+      "name":"RikaFirenet",
       "version":"1.1.0",
       "news":{
          "1.1.0":{
-            "en":"ioBroker adapter for DMXfaceXP controllers",
-            "de":"ioBroker Adapter für DMXfaceXP Controller"
+            "en":"ioBroker adapter for Rika Firenet",
+            "de":"ioBroker Adapter für Rika Firenet"
          }
       },
-      "title":"DMXfaceXP",
+      "title":"RikaFirenet",
       "titleLang":{
-         "en":"DMXfaceXP ioBroker adapter",
-         "de":"DMXfaceXP ioBroker Adapter"
+         "en":"Rika Firenet ioBroker adapter",
+         "de":"Rika Firenet ioBroker Adapter"
       },
       "desc":{
          "en":"Connects DMXfaceXP by ACTIVE SEND protocoll",
@@ -22,9 +22,9 @@
       ],
       "keywords":[
          "ioBroker",
-         "dmxface",
-         "DMXfaceXP",
-         "Media controller",
+         "Rika",
+         "Firenet",
+         "Rika Firenet",
          "Smart Home",
          "home automation"
       ],
@@ -33,8 +33,8 @@
       "main":"main.js",
       "icon":"dmxface.png",
       "enabled":true,
-      "extIcon":"https://raw.githubusercontent.com/DMXface/ioBroker.dmxface/master/admin/dmxface.png",
-      "readme":"https://github.com/DMXface/ioBroker.dmxface/blob/master/README.md",
+      "extIcon":"https://raw.githubusercontent.com/Helmut21/ioBroker.RikaFirenet/master/admin/dmxface.png",
+      "readme":"https://github.com/Helmut21/ioBroker.RikaFirenet/blob/master/README.md",
       "loglevel":"info",
       "mode":"daemon",
       "type":"general",
@@ -44,10 +44,10 @@
       "adminTab":{
          "singleton":true,
          "name":{
-            "en":"DMXfaceXP",
-            "de":"DMXfaceXP"
+            "en":"RikaFirenet",
+            "de":"RikaFirenet"
          },
-         "link":"www.dmxface.at",
+         "link":"www.RikaFirenet.at",
          "fa-icon":"info"
       },
       "supportCustoms":true,
