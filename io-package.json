@@ -31,7 +31,7 @@
       "license":"MIT",
       "platform":"Javascript",
       "main":"main.js",
-      "icon":"dmxface.png",
+      "icon":"logo.png",
       "enabled":true,
       "extIcon":"https://raw.githubusercontent.com/Helmut21/ioBroker.rikafirenet/master/admin/dmxface.png",
       "readme":"https://github.com/Helmut21/ioBroker.rikafirenet/blob/master/README.md",
