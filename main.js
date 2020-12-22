@@ -11,7 +11,7 @@ const adaptername = "RikaFirenet"
 const utils = require('@iobroker/adapter-core');
 var adapter  = utils.Adapter (adaptername);
 
-var LOG_ALL = false;						//Flag to activate full logging
+var LOG_ALL = true;						//Flag to activate full logging
 
 //DMXFACE CONNECTION values
 var IPADR  = "0.0.0.0";						//DMXface IP address
