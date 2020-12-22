@@ -1,12 +1,12 @@
 {
-   "name":"iobroker.RikaFirenet",
+   "name":"iobroker.rikafirenet",
    "version":"1.1.0",
    "description":"Rika Firenet adapter for ioBroker",
    "author":{
       "name":"Helmut",
       "email":"mail@HST.at"
    },
-   "homepage":"https://github.com/Helmut21/ioBroker.RikaFirenet",
+   "homepage":"https://github.com/Helmut21/ioBroker.rikafirenet",
    "license":"MIT",
    "keywords":[
       "ioBroker",
@@ -18,7 +18,7 @@
    ],
    "repository":{
       "type":"git",
-      "url":"https://github.com/Helmut21/ioBroker.RikaFirenet"
+      "url":"https://github.com/Helmut21/ioBroker.rikafirenet"
    },
    "dependencies":{
       "@iobroker/adapter-core":"^1.0.3"
@@ -31,7 +31,7 @@
 
    },
    "bugs":{
-      "url":"https://github.com/Helmut21/ioBroker.RikaFirenet/issues"
+      "url":"https://github.com/Helmut21/ioBroker.rikafirenet/issues"
    },
    "readmeFilename":"README.md"
 }
